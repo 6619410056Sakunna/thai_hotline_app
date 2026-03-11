@@ -1,6 +1,6 @@
 # thai_hotline_app
 #screen
-<img width="144" height="320" alt="localhost_62763_(Samsung Galaxy S20 Ultra)" src="https://github.com/user-attachments/assets/cb1d125d-ae55-4298-a85f-0810657bb744" />
+<img width="250" height="400" alt="localhost_62763_(Samsung Galaxy S20 Ultra)" src="https://github.com/user-attachments/assets/cb1d125d-ae55-4298-a85f-0810657bb744" />
 
 #Home
 #สายด่วนการเดินทาง
