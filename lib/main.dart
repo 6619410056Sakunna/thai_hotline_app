@@ -2,6 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:thai_hotline_app/view/splash_screen_ui.dart';
 
+// --- เพิ่มส่วนนี้ลงไป ---
+void main() {
+  runApp(const ThaiHotlineApp());
+}
+// ----------------------
+
 class ThaiHotlineApp extends StatefulWidget {
   const ThaiHotlineApp({super.key});
 
@@ -14,11 +20,9 @@ class _ThaiHotlineAppState extends State<ThaiHotlineApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: SplashScreenUi(),
+      home: const SplashScreenUi(),
       theme: ThemeData(
-        textTheme: GoogleFonts.googleSansTextTheme(
-          Theme.of(context).textTheme,
-        ),
+        textTheme: GoogleFonts.sarabunTextTheme(),
       ),
     );
   }
